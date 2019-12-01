@@ -1,4 +1,4 @@
-# echo-echo-echo [![Build Status](https://travis-ci.com/tomasbasham/echo-echo-echo.svg?branch=master)](https://travis-ci.com/tomasbasham/echo-echo-echo)
+# echo-echo-echo [![Build Status](https://travis-ci.com/tomasbasham/echo-echo-echo.svg?branch=master)](https://travis-ci.com/tomasbasham/echo-echo-echo) [![Maintainability](https://api.codeclimate.com/v1/badges/428e6cae5d8321a778ed/maintainability)](https://codeclimate.com/github/tomasbasham/echo-echo-echo/maintainability)
 
 This README outlines the details of collaborating on this Rust application. A
 short introduction of this app could easily go here.
