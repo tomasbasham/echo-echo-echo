@@ -1,4 +1,4 @@
-# echo-echo-echo
+# echo-echo-echo [![Build Status](https://travis-ci.com/tomasbasham/echo-echo-echo.svg?branch=master)](https://travis-ci.com/tomasbasham/echo-echo-echo)
 
 This README outlines the details of collaborating on this Rust application. A
 short introduction of this app could easily go here.
